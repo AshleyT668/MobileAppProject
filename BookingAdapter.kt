@@ -1,3 +1,4 @@
+//Booking Adapter
 package com.example.clutterfreeapp.adapters
 
 import android.view.LayoutInflater
